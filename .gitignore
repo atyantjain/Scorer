@@ -1,0 +1,91 @@
+# Audio Output Files
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+*.aac
+*.wma
+*.aiff
+*.au
+*.raw
+
+# Upload and Output Directories
+uploads/
+output/
+processed/
+temp/
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Audio Processing Specific
+*.ffmpeg
+*.sox_cache
+librosa_cache/
+audio_cache/
+waveform_cache/
+
+# Environment Variables
+.env.local
+.env.production
+.env.staging
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Flask
+instance/
+.webassets-cache
