@@ -12,6 +12,7 @@
 
 # Upload and Output Directories
 uploads/
+outputs/
 output/
 processed/
 temp/
