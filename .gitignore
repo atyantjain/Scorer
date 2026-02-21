@@ -90,3 +90,9 @@ waveform_cache/
 # Flask
 instance/
 .webassets-cache
+
+# Auto-commit scripts and logs (local automation only)
+auto-commit.sh
+setup-auto-commit.sh
+AUTO-COMMIT.md
+auto-commit.log
